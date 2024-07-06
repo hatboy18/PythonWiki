@@ -1,0 +1,181 @@
+.fundo2{
+    background-image: url("Screenshot_1.png"),url("Screenshot_1.png");
+    background-attachment:fixed;
+    background-size: cover;
+}
+.partCima{
+    box-shadow:0px 0px 10px #f49c1f;
+    align-content: center;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    min-width: 100vh;
+    flex-direction: column;
+    background-color: #05182c;
+    color: antiquewhite;
+    font-family:Arial, Helvetica, sans-serif;
+    text-justify: end;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 12px;
+}
+.media-object{
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    background-color: #000000;
+    margin-right: -10px;
+}
+#coisa{
+    margin-bottom: 40px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -10px;
+    margin-right: -5px;
+    margin-left: -10px;
+    max-width: 100%;
+}
+
+h4{
+    color:#f49c1f;
+}
+p,ul{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 125%;
+    color: #f6c075;;
+}
+.gifpy{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.gif{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.Guido{
+    box-shadow: 0px 0px 10px #f49c1f;
+
+    width: 300px;
+    border-radius: 15% ;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.Spotify{
+    box-shadow: 0px 0px 10px rgb(129, 214, 106);
+    border-radius: 15% ;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.pot{
+    color:  rgb(119, 235, 119);
+}
+.Netflix{
+    box-shadow: 0px 0px 10px rgb(255, 47, 54);
+    border-radius: 15% ;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.net{
+    color: rgb(247, 75, 75);
+}
+.Instagram{
+    box-shadow: 0px 0px 10px rgb(254, 93, 233);
+    border-radius: 15% ;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.inst{
+    background: linear-gradient(to right, rgb(255, 68, 0), rgb(217, 6, 6), rgb(255, 0, 102));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.row{
+    height: 1360px;
+    width: 868px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+#IMG{
+    border-radius: 15%;
+}
+footer{
+        margin-left: -10px;
+        display: block;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+        bottom: 0;
+}
+.bio{
+    display: flex;
+    align-items: center;
+    font-size: 100%;
+}
+#udemy{
+    margin-bottom: 30px;
+}
+.menu{
+    background-color: #000000;
+    text-align: center;
+    color: white;
+    margin-right: -10px;
+    flex-direction:row;
+    padding-bottom: 15px;
+}
+h1,h2,h3{
+    text-align: center;
+    color:#f49c1f;
+    text-decoration: wavy;
+}
+button{
+    background-color: #f49c1f;
+    justify-content: center;
+    border-style: none;
+    border-radius: 6px;
+    height: 30px;
+    width: 150px;
+    color: rgb(13, 13, 15); 
+}
+button:hover{
+    color:#d1dcf1;  
+    width: 155px;
+    height: 35px;
+    box-shadow: 0px 0px 10px #f49c1f;
+}
+a{
+    color: #f0a740;
+    
+}
+.amog{
+    margin: 15px;
+    text-align: center;
+}
+.proxipag{
+    justify-content: center;
+}
+.uni{
+    font-size:20px;
+}
+#coiso{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: rgb(188, 187, 247);
+}
+ul{
+    text-justify: end;
+    font-size: large    ;
+}
